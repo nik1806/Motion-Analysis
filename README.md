@@ -26,4 +26,4 @@ Thus, for analysis of robustness of algorithms following challenges are consider
 * There are 3 python notebook which uses primary system camera for execution.
 * Simply open each notebook in jupyter and run cells step by step.
 
-Further datials about theory and sample results are present in each notebook.
+Further details about theory and sample results are present in each notebook.
